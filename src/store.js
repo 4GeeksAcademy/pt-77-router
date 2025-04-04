@@ -14,7 +14,7 @@ export const initialStore=()=>{
       }
     ],
     agenda:null,
-    contacts:null,
+    contacts:[],
   }
 }
 
